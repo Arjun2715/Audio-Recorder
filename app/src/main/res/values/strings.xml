@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MediaRecorder</string>
+    <string name="r1">Recording...</string>
+    <string name="r2">Recording stopped.</string>
+    <string name="r3">Playing recording...</string>
+    <string name="r4">Reproducción de grabación completada.</string>
+    <string name="r5">Se detuvo la reproducción de la grabación.</string>
+</resources>
